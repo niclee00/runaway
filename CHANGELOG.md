@@ -1,5 +1,9 @@
 # RunAway changelog
 
+## v0.7.1 (2026-10-27)
+
+- Collapsed route card shows lights, water and bridges as icons with counts
+
 ## v0.7.0 (2026-10-27)
 
 - Frosted-glass map controls and route card, one toolbar, cleaner bottom bar
