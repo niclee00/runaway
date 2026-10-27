@@ -1,5 +1,9 @@
 # RunAway changelog
 
+## v0.7.2 (2026-10-27)
+
+- Generate Loop sheet: removed the static Roundtrip card, title matches the Generate Loop button, Direction row uses grey label and white value like Distance and Rounds
+
 ## v0.7.1 (2026-10-27)
 
 - Collapsed route card shows lights, water and bridges as icons with counts
