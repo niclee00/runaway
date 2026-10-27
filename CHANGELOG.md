@@ -1,5 +1,10 @@
 # RunAway changelog
 
+## v0.7.9 (2026-10-27)
+
+- Help tour: steps 2 and 3 show Generate Loop and Manual Loop selected in orange, then restore your choice
+- Help tour: step 3 outlines the Manual Loop button
+
 ## v0.7.8 (2026-10-27)
 
 - Help tour: the highlighted control now shows at full brightness
