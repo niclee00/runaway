@@ -1,5 +1,9 @@
 # RunAway changelog
 
+## v0.7.10 (2026-10-27)
+
+- Routes never use ferries: loops no longer cross to Pulau Ubin by boat
+
 ## v0.7.9 (2026-10-27)
 
 - Help tour: steps 2 and 3 show Generate Loop and Manual Loop selected in orange, then restore your choice
