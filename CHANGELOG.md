@@ -1,5 +1,9 @@
 # RunAway changelog
 
+## v0.7.3 (2026-10-27)
+
+- Generate Loop sheet fits a phone screen without scrolling: tighter spacing, compact controls, shorter captions
+
 ## v0.7.2 (2026-10-27)
 
 - Generate Loop sheet: removed the static Roundtrip card, title matches the Generate Loop button, Direction row uses grey label and white value like Distance and Rounds
