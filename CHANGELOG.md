@@ -1,5 +1,9 @@
 # RunAway changelog
 
+## v0.6.3 (2026-10-27)
+
+- Route card: X closes the route, tools share the Start run row, facts on one row, bridges renamed
+
 ## v0.6.2 (2026-10-27)
 
 - Map tab keeps your route when coming back from other tabs; tapping Map while on it clears
