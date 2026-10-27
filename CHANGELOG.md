@@ -1,5 +1,9 @@
 # RunAway changelog
 
+## v0.8.1 (2026-10-27)
+
+- Run: only the next 1.5 km of route is bright; the rest, including the way back, is faded
+
 ## v0.8.0 (2026-10-27)
 
 - New Volt look: lime accent on near-black, recoloured logo, app icon and opening animation
