@@ -1,5 +1,11 @@
 # RunAway changelog
 
+## v0.7.8 (2026-10-27)
+
+- Help tour: the highlighted control now shows at full brightness
+- New loop keeps the direction you chose instead of drifting
+- Manual Loop: Use my location in the tip row starts from where you are
+
 ## v0.7.7 (2026-10-27)
 
 - Update notice moved off the map controls: orange dot on Layers and an Update row in the Layers sheet
