@@ -1,5 +1,12 @@
 # RunAway changelog
 
+## v0.6.0 (2026-10-27)
+
+- Route card collapses to one line; swipe up for details
+- Map: one Layers button, compass only when rotated, lighter route markers
+- Run screen: big distance, hold to finish
+- Routes: Run again, area names; lighter type throughout
+
 ## v0.5.1 (2026-10-27)
 
 - Empty map: Generate Loop / Manual Loop selector with a hint line
