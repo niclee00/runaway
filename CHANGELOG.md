@@ -1,5 +1,12 @@
 # RunAway changelog
 
+## v0.7.5 (2026-10-27)
+
+- Map: location dot keeps following you after Locate
+- Run: chevrons on the route show which way to run
+- Run: warns and buzzes when running the wrong way or going off route, with an arrow pointing where to go
+- Run: buzz on/off button
+
 ## v0.7.4 (2026-10-27)
 
 - Generate Loop sheet hides captions on short screens so it fits without scrolling
