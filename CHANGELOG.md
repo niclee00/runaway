@@ -1,5 +1,11 @@
 # RunAway changelog
 
+## v0.9.0 (2026-10-27)
+
+- RunAway Pro (hidden by default): unlock from the menu
+- Cool Route (beta): picks the shadiest loop and shows its shade
+- Plan tab: 10 km, half and full marathon training plans
+
 ## v0.8.1 (2026-10-27)
 
 - Run: only the next 1.5 km of route is bright; the rest, including the way back, is faded
