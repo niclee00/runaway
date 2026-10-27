@@ -1,5 +1,10 @@
 # RunAway changelog
 
+## v0.5.1 (2026-10-27)
+
+- Empty map: Generate Loop / Manual Loop selector with a hint line
+- Removed the Route Creator header from the map card
+
 ## v0.5.0 (2026-10-27)
 
 - New Route Creator card on the map, with a Generate Loop button
