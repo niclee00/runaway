@@ -1,5 +1,9 @@
 # RunAway changelog
 
+## v0.7.6 (2026-10-27)
+
+- Locate is instant once tracking, and the first tap on the web uses a recent fix instead of waiting for a fresh one
+
 ## v0.7.5 (2026-10-27)
 
 - Map: location dot keeps following you after Locate
