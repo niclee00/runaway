@@ -1,5 +1,10 @@
 # RunAway changelog
 
+## v0.9.1 (2026-10-27)
+
+- Cool Route: tree canopy from Meta/WRI canopy height map, LTA covered linkways
+- Cool Route: building shadows from the sun's position now (HDB and OpenStreetMap heights)
+
 ## v0.9.0 (2026-10-27)
 
 - RunAway Pro (hidden by default): unlock from the menu
