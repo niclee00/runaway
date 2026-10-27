@@ -1,5 +1,9 @@
 # RunAway changelog
 
+## v0.9.2 (2026-10-27)
+
+- Menu: removed How to use (the ? button still starts the tour)
+
 ## v0.9.1 (2026-10-27)
 
 - Cool Route: tree canopy from Meta/WRI canopy height map, LTA covered linkways
