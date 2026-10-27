@@ -1,5 +1,9 @@
 # RunAway changelog
 
+## v0.7.7 (2026-10-27)
+
+- Update notice moved off the map controls: orange dot on Layers and an Update row in the Layers sheet
+
 ## v0.7.6 (2026-10-27)
 
 - Locate is instant once tracking, and the first tap on the web uses a recent fix instead of waiting for a fresh one
