@@ -1,5 +1,9 @@
 # RunAway changelog
 
+## v0.8.0 (2026-10-27)
+
+- New Volt look: lime accent on near-black, recoloured logo, app icon and opening animation
+
 ## v0.7.10 (2026-10-27)
 
 - Routes never use ferries: loops no longer cross to Pulau Ubin by boat
