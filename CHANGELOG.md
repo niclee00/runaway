@@ -1,5 +1,9 @@
 # RunAway changelog
 
+## v0.7.0 (2026-10-27)
+
+- Frosted-glass map controls and route card, one toolbar, cleaner bottom bar
+
 ## v0.6.3 (2026-10-27)
 
 - Route card: X closes the route, tools share the Start run row, facts on one row, bridges renamed
