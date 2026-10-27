@@ -1,5 +1,12 @@
 # RunAway changelog
 
+## v0.7.4 (2026-10-27)
+
+- Generate Loop sheet hides captions on short screens so it fits without scrolling
+- Checks GitHub for a newer version on launch and offers an Update button
+- Export to Strava shows a step-by-step guide every time; web export downloads the GPX and opens Strava's upload page
+- About and credits moved into the Layers sheet on the Map tab
+
 ## v0.7.3 (2026-10-27)
 
 - Generate Loop sheet fits a phone screen without scrolling: tighter spacing, compact controls, shorter captions
