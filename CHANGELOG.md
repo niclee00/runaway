@@ -1,5 +1,10 @@
 # RunAway changelog
 
+## v0.6.1 (2026-10-27)
+
+- Map tab returns to the empty map (with Undo)
+- Help button back on the map; tour text updated for the new layout
+
 ## v0.6.0 (2026-10-27)
 
 - Route card collapses to one line; swipe up for details
