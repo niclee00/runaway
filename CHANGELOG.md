@@ -1,5 +1,9 @@
 # RunAway changelog
 
+## v0.6.2 (2026-10-27)
+
+- Map tab keeps your route when coming back from other tabs; tapping Map while on it clears
+
 ## v0.6.1 (2026-10-27)
 
 - Map tab returns to the empty map (with Undo)
