@@ -1,5 +1,10 @@
 # RunAway changelog
 
+## v0.9.5 (2026-10-28)
+
+- Map centres on your location when the app opens
+- Finishing a run clears the loop from the map
+
 ## v0.9.4 (2026-10-27)
 
 - Generate Loop: new distance card with tap-to-type, Preferences row for extra options, first-time hint
