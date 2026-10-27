@@ -1,5 +1,11 @@
 # RunAway changelog
 
+## v0.9.4 (2026-10-27)
+
+- Generate Loop: new distance card with tap-to-type, Preferences row for extra options, first-time hint
+- Run screen: Re-Center button
+- Credits: HDB, LTA and Meta/WRI tree canopy
+
 ## v0.9.3 (2026-10-27)
 
 - Cool Route: off after sunset, when every route is cool
