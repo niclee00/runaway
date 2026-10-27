@@ -1,5 +1,13 @@
 # RunAway changelog
 
+## v0.9.3 (2026-10-27)
+
+- Cool Route: off after sunset, when every route is cool
+- Cool Route: sun chip shows where the sun is and which side is shaded
+- Pro unlocks with a code
+- Plan: session dates as Tue - 27 Oct
+- Help moved into the menu
+
 ## v0.9.2 (2026-10-27)
 
 - Menu: removed How to use (the ? button still starts the tour)
