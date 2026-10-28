@@ -1,5 +1,9 @@
 # RunAway changelog
 
+## v0.12.0 (2026-10-28)
+
+- Heart Run: GPS Art rebuilt around one shape, picks its own size, keeps legs near the outline, faint heart on the map; long routes stay on Valhalla; plan dialog text wraps
+
 ## v0.11.0 (2026-10-28)
 
 - GPS Art (Pro), Hill Run finds the nearest climb, coached plans by level and phase, missed-session moves, routes avoid roads under construction
