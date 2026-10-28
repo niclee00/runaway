@@ -1,5 +1,9 @@
 # RunAway changelog
 
+## v0.10.1 (2026-10-28)
+
+- Hill Run and Cool Route can't be on together: turning one on switches the other off, with a note
+
 ## v0.10.0 (2026-10-28)
 
 - Training plan: coached intake (your fitness, days, goal, style), weekly check-ins that adapt the plan, paces from a recent race, 5 km races
