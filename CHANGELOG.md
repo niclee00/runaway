@@ -1,5 +1,9 @@
 # RunAway changelog
 
+## v0.11.0 (2026-10-28)
+
+- GPS Art (Pro), Hill Run finds the nearest climb, coached plans by level and phase, missed-session moves, routes avoid roads under construction
+
 ## v0.10.1 (2026-10-28)
 
 - Hill Run and Cool Route can't be on together: turning one on switches the other off, with a note
