@@ -1,5 +1,14 @@
 # RunAway changelog
 
+## v0.10.0 (2026-10-28)
+
+- Training plan: coached intake (your fitness, days, goal, style), weekly check-ins that adapt the plan, paces from a recent race, 5 km races
+- Hill Run (Pro): nearest hill, sprint up and jog down repeats
+- Cool Route and Hill Run: tap ? for details
+- Short runs show 'Run not saved'
+- Off-route buzz works in the background and with the screen off
+- Avoid bridges on by default
+
 ## v0.9.5 (2026-10-28)
 
 - Map centres on your location when the app opens
