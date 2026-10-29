@@ -1,5 +1,11 @@
 # RunAway changelog
 
+## v0.13.0 (2026-10-29)
+
+- Heart Run: hearts are now drawn on your phone along real paths, so they look like hearts and need no route server
+- Pick from several hearts nearby, up to 1 km away, all under 8 km
+- New Pro code
+
 ## v0.12.1 (2026-10-29)
 
 - Heart Run is switched off for now, until it has its own route server
