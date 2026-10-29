@@ -1,5 +1,10 @@
 # RunAway changelog
 
+## v0.12.1 (2026-10-29)
+
+- Heart Run is switched off for now, until it has its own route server
+- Route requests are spaced out so the public route servers are not overloaded
+
 ## v0.12.0 (2026-10-28)
 
 - Heart Run: GPS Art rebuilt around one shape, picks its own size, keeps legs near the outline, faint heart on the map; long routes stay on Valhalla; plan dialog text wraps
