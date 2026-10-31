@@ -1,5 +1,10 @@
 # RunAway changelog
 
+## v0.13.1 (2026-10-31)
+
+- Hill Run: routes stay on public paths, out of schools and private grounds
+- Hill Run: blocking a stop now picks a different climb, and runs land closer to your distance
+
 ## v0.13.0 (2026-10-29)
 
 - Heart Run: hearts are now drawn on your phone along real paths, so they look like hearts and need no route server
