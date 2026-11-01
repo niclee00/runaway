@@ -1,5 +1,11 @@
 # RunAway changelog
 
+## v0.13.2 (2026-11-01)
+
+- Distance no longer freezes after a GPS gap, and running past the finish no longer warns off route
+- The run screen says Finished, with a hint to hold Finish to save your run
+- The live notification shows direction, distance to it and distance run
+
 ## v0.13.1 (2026-10-31)
 
 - Hill Run: routes stay on public paths, out of schools and private grounds
