@@ -1,5 +1,11 @@
 # RunAway changelog
 
+## v0.13.3 (2026-11-20)
+
+- Distance counts your real running even when GPS fixes arrive late with the screen off
+- Skip part of the route or start partway and it picks up where you join it
+- The map and your arrow turn with the way you're running
+
 ## v0.13.2 (2026-11-01)
 
 - Distance no longer freezes after a GPS gap, and running past the finish no longer warns off route
