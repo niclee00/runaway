@@ -1,5 +1,9 @@
 # RunAway changelog
 
+## v0.13.4 (2026-11-20)
+
+- The arrow on the run map turns with the way your phone faces, like Google Maps
+
 ## v0.13.3 (2026-11-20)
 
 - Distance counts your real running even when GPS fixes arrive late with the screen off
