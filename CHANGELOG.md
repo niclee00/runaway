@@ -1,5 +1,10 @@
 # RunAway changelog
 
+## v0.13.5 (2026-11-20)
+
+- The route ahead on the run map fades smoothly into the rest of the route instead of breaking into sections.
+- Only the next turn is marked with a dot.
+
 ## v0.13.4 (2026-11-20)
 
 - The arrow on the run map turns with the way your phone faces, like Google Maps
