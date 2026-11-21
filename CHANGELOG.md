@@ -1,5 +1,12 @@
 # RunAway changelog
 
+## v0.13.6 (2026-11-21)
+
+- Far turns read as straight first, like Straight for 420 m, then turn right.
+- While running, the arrow points the way you are moving; standing, it follows the compass.
+- The arrow and map glide smoothly between GPS fixes, which now arrive every second.
+- Passing the finish says Run finished in the notification while time and distance keep recording.
+
 ## v0.13.5 (2026-11-20)
 
 - The route ahead on the run map fades smoothly into the rest of the route instead of breaking into sections.
