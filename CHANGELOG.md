@@ -1,5 +1,13 @@
 # RunAway changelog
 
+## v0.14.0 (2026-11-22)
+
+- 3D maps: buildings on the home map and while running, with the route showing faintly through them
+- Map names: areas, bus interchanges, stations, malls, parks, schools and key landmarks sit above buildings; road names lie flat on the road
+- Better loops: straighter routes, less doubling back, and better avoidance of worksites and restricted areas
+- Distance keeps counting when you leave the app during a run
+- A notice explains when Location Accuracy is off and lets you turn it on
+
 ## v0.13.6 (2026-11-21)
 
 - Far turns read as straight first, like Straight for 420 m, then turn right.
